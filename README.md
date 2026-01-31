@@ -65,7 +65,10 @@ This project streamlines food service management using real-time features and a 
 
 | Home Screen (Employee) | Today's Menu | Snack Ordering |
 |------------------------|--------------|----------------|
-| ![Home](screenshots/home.png) | ![Menu](screenshots/menu.png) | ![Snacks](screenshots/snacks.png) |
+| ![Home](![Lunchify front page](https://github.com/user-attachments/assets/d70a6cb8-3c74-430c-a64b-df9cbfce972e)
+) | ![Menu](![today menu](https://github.com/user-attachments/assets/5d8a7a64-ffe1-45d9-8819-51f5c5ef5a86)
+) | ![Snacks](![snacks](https://github.com/user-attachments/assets/0e25e669-33ce-4cff-88e3-0c2a84cd7bb4)
+) |
 
 ---
 
