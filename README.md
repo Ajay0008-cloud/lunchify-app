@@ -68,7 +68,10 @@ This project streamlines food service management using real-time features and a 
 | ![Home](![Lunchify front page](https://github.com/user-attachments/assets/d70a6cb8-3c74-430c-a64b-df9cbfce972e)
 ) | ![Menu](![today menu](https://github.com/user-attachments/assets/5d8a7a64-ffe1-45d9-8819-51f5c5ef5a86)
 ) | ![Snacks](![snacks](https://github.com/user-attachments/assets/0e25e669-33ce-4cff-88e3-0c2a84cd7bb4)
-) |
+) |![coupons](![coupons](![coupons ](https://github.com/user-attachments/assets/dcebc434-3b23-4792-8962-91376e232347)
+)|![home_page](![home_page](![home_page ](![home page](https://github.com/user-attachments/assets/50bc0822-3d08-4024-97bd-d8d5851c3d4a)
+)
+
 
 ---
 
